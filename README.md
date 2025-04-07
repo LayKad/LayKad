@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LayKad
-- 👀 I’m interested in C++
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in C++, Python, AI
+- 🌱 I’m currently learning C++, Python
+- 💞️ I’m looking to collaborate on ?
 - 📫 How to reach me THE BEST?
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I'm Georgian
